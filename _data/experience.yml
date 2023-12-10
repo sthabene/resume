@@ -1,19 +1,30 @@
-# Jobs
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Standard Bank South Africa
+  position: Front-Office Business Analyst
+  duration: Aug, 2023 &mdash; Present
+  summary: <ul class="resume-item-list"> <li>Actively bridge the gap between business and IT by proficiently gathering and documenting business requirements</li><li>Document and understand the different financial products, including the pricing and risk calculation making up the package used to achieve transfer pricing between the different desks</li> <li>Communicate system limitations to stakeholders, providing clarity on the feasibility of requirements within Murex</li> <li>Write and automate the test cases for the different front office desks incl. Balance sheet, Interest rate trading and sales</li> </ul>
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
+- company: Murex
+  position: External Collateral operations consultant
+  duration:  Oct, 2022 &mdash; Aug, 2023
+  summary: <ul class="resume-item-list"><li>Led the Triparty end to end migration process on two upgrade projects for processing Initial Margin requirements, including configuration and building of the swift messages for Euroclear, Clearstream, STRATE and BONY Mellon</li><li>Configured and deployed the new agreement stamping solution for the collateral upgrade project, including the reconciliation and end-to-end testing</li><li>Migrated and configured the new collateral workflow for margin and expected margin call processing for both email and interfacing with Acadia Margin Manager using CICD to deliver the build on one of the largest collateral implementation</li><li>Built and documented the automated test using Mxtest and pushed changes to the remote repository on the CI/CD upgrade project as well as support for the Saas client</li></ul>
 
 # Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: 
+  position: External Post-trade operations and interfaces consultant
+  duration: Jan, 2020 &mdash; Sep, 2022
+  summary: <b>FX and Commodity implementation project for a UK bank</b> <ul class="resume-item-list"> <li>Implemented the Regulatory reporting build for FX and commodity products</li> <li>Configured and built pre- and post-trade lifecycle for FX and Commodity products using CICD to deliver the requirements</li> <li>Configured pre-trade rules to apply CLS rules and lifecycle for trades with CLS eligible parties and legal entities, and computing and assigning payment initiation, netting, and release dates</li> </ul> <b>Money Market upgrade project for a UK bank</b> <ul class="resume-item-list"> <li>Built settlement messages, configured static data, and post-trade processing as part of the back-office stream for the trading system upgrade project for Natwest bank</li> <li>Using pre-trade rules and post-trade formulas to correctly apply splitting of payments based on currency and counterparty thresholds</li><li> Applied the RTGS (real-time gross settlement) lifecycle rules for payments including building and configuring the relevant payment swift messages</li> </ul> <b>Money Market upgrade project for a South African bank</b> <ul class="resume-item-list"> <li>Built the NCD ISIN Request and Receipt Interface, including the relevant swifts and the Trade reporting, Trade Matching, and Ack/Nack interface</li> <li>Built T-Bill FOP/DVP settlement process, including the relevant swifts as well as the post-trade validation process (incl. eco and non-eco checks for security deals)</li><li>Built ISDA Paper Confirmations for several products incl. swaps, Cap/floors, FRA, Swaption, FX Spot/Fwd, Bond, Options</li><li>Built event notification (cancellation, termination, renegotiation, and correlation events), payment and reset advice</li><li>Built the money market swift and paper confirmation for Loans and Deposits</li></ul>
+
+# VP of Global Communications
+- company: Momentum Metropolitan
+  position: Back office and Interfaces stream lead
+  duration: Jul, 2019 &mdash; Dec, 2019
+  summary: <b>Murex upgrade from v28 to v41</b><ul class="resume-item-list"><li>Managed the back-office and interface streams for the Murex upgrade project, delivering requirements ahead of schedule, while also providing user training and managing user acceptance and system integration</li><li>Built the interface and the view currently used by the back-office team for tracking incoming and outgoing confirmations</li><li>Built stubs used for continuous automated testing, this was crucial for completing the SIT (system integration testing) phase with upstream and downstream systems</li></ul>
+
+# Director of Digital Stratgy
+- company: 
+  position: Murex Support
+  duration:  Feb, 2018 &mdash; Jun, 2019
+  summary: <ul class="resume-item-list"> <li>Responsible for day-to-day Murex support queries from 10+ users across front-office, middle-office, back-office, and risk in the Balance Sheet Management department, as well as end-of-day market data import process and reports</li> <li>Built a system-to-system trade import interface, currently used to import 100+ trades and events daily for FO risk dynamic hedging. The interface, together with testing and documentation was delivered weeks prior to the deadline</li> <li>Created several interfaces for importing market data including NAV (net asset value) figures into Murex for fund shares, bond, futures, and equities prices, as well as FX rates</li><li>Created a security import interface for Middle Office so that they can import several hundreds of bond securities at once</li><li>First-principles risk sensitivity computations including Yield Risk, PV01, DV01 and Bucketed DV01, DV02, Basis01, and so on for Interest Rate Derivative and Money Market products</li> <li>Monitored the End-of-Day batch run and responded to batch issues involving market data and processing scripts</li><li>Dealt with risk and valuation queries of several financial instruments, incl. derivatives and bonds</li></ul>
+

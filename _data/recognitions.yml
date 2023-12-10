@@ -1,10 +1,21 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- award: 
+  organization: Murex Certified Post-trade workflows 3T (Train The Trainer)
+  year: Sep, 2023
+  summary: Successfully completed the qualification process as a Post Trade Workflow Trainer. The training encompassed key topics in post-trade workflows, including lookup tables, workflow data dictionary formulas, best practices, and presentation skills
+
+- award: 
+  organization: AWS Cloud Practitioner
+  year: May, 2023
+  summary: Foundational and high-level understanding of AWS Cloud, services, and terminology. Covered over 150 different services. I am aware that clients are moving their Murex instances to the cloud, and this certification helped me understand the cloud
+
+- award: 
+  organization: Murex CI/CD and MxTest Training
+  year: Feb, 2021
+  summary: Successfully completed CI/CD and MxTest training as a prerequisite for joining the Lloyds CI/CD upgrade project. Subsequently, contributed to three additional upgrade and support projects that were using CI/CD
+
+- award: 
+  organization: Murex Interfaces Embedment Training Program
+  year: Oct, 2018 &mdash; Dec, 2018
+  summary: Completed a 3-month Interfaces Implementation Training in Paris with 3 consultants. Training covered MXMLEXCHANGE, workflows, XSL, data dictionary, and connectivity. Also, completed the following MTEK modules <ul class="resume-item-list"><li>Post-trade workflows</li><li>GOM</li><li>Integration</li><li>Reporting</li><li>FO Products, simulation and views</li></ul>

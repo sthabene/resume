@@ -1,13 +1,12 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Bachelor of Business Science in Analytics
+  uni: University of Cape Town
+  year: 2013 &mdash; 2017
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+  summary: <ul class="resume-item-list"><li>Statistics honours</li><li>2nd place for the 2018 SASA Young Statisticians Honours Project of the Year</li></ul>
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Financial Risk Manager (FRM®)
+  uni: Global Association of Risk Professionals
+  year: Issued 2021
+  award: 
+  summary: <ul class="resume-item-list"><li>Market Risk, Basel, Liquidity Risk, Operations Risk, Valuations</li></ul>

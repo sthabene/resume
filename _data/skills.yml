@@ -1,12 +1,24 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Trade life cycle
+  description: Static data import, instrument creation, market data mapping and import, pricing, and trade booking, economic and non-economic checks, validation, confirmations, matching and trade events across security, equity, FX, money market and interest rate products
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Settlement life cycle
+  description: Payment/deliverable creation, payment rules, netting, splitting, instruction generation, validation, settlement message generation, settlement events for security, cash and physical settlements
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Post-trade and Post-trade workflow
+  description: Interfaces, data dictionary (XSL, XSLTREE, SQL, XMLF and XMLBM), market data, event, trade, and static data integration, collateral exchange, margin call management, OSP, Trade MxML and Swift integration for Back Office processing, MSL, task rules, lookup tables, workflow tasks
+
+- skill: Back-office
+  description: Deliverable module (Pre-netting, post-netting, splitting, settlements messages), Static data (Settlement instruction insertion and modification via front and via exchange workflow, counterparty modifications), OSP (Setting OSP and OSP rights, extended fields, designing smart queues, netting widget and linking queues to tasks in the post-trade workflow, debugging), Creation, assignment and sending of both swift and doc confirmations
+
+- skill: Collateral Management
+  description: Collateral agreements and agreement stamping, Collateral exchange workflow (margin call, expected margin call, substitution, interest, requested substitution lifecycle), triparty workflow including the relevant swift messages, exposure aggregation and calculation, collateral inventory, processing script setup and debugging
+
+- skill: Reporting
+  description: Building reports (including the dynamic tables, feeders and extractions, and processing scripts for the batches), building SQL queries, formatting views, user-defined fields, views, and layouts
+
+- skill: Market Risk
+  description: Instrument Valuation (Discounting and forward rate curve setup, assignment, and their usage), Scenario generation, definition (scenario containers), and import, Computing VaR based on scenarios, obtaining results (from reports and market risk monitor)
+
+- skill: Tools/Technologies
+  description: SQL (Extensive knowledge and utilization of SQL to address queries and resolve diverse challenges across all projects. Exposure to both Oracle and Sybase database management systems, with a deep understanding of the Murex financial database schema), terminal and winscp (Proficient in using the terminal and WinSCP for executing command-line scripts, restarting services, navigating logs during debugging, importing and exporting objects, as well as monitoring memory and storage), XSL, XSLT (Utilize XSL and XSLT extensively within post-trade workflows), Python, R, C++
