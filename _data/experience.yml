@@ -2,7 +2,7 @@
 - company: Standard Bank South Africa
   position: Front-Office Business Analyst
   duration: Aug, 2023 &mdash; Present
-  summary: <ul class="resume-item-list"> <li>Actively bridge the gap between business and IT by proficiently gathering and documenting business requirements</li><li>Document and understand the different financial products, including the pricing and risk calculation making up the package used to achieve transfer pricing between the different desks</li> <li>Communicate system limitations to stakeholders, providing clarity on the feasibility of requirements within Murex</li> <li>Write and automate the test cases for the different front office desks incl. Balance sheet, Interest rate trading and sales</li> </ul>
+  summary: <ul class="resume-item-list"> <li>Actively bridge the gap between business and Murex developers by proficiently gathering and documenting business requirements</li><li>Document and understand the different financial products, including the pricing and risk calculation making up the package used to achieve transfer pricing between the different desks</li> <li>Communicate system limitations to stakeholders, providing clarity on the feasibility of implementation of the requirements within Murex</li> <li>Write and automate the test cases for the different front office desks incl. Balance sheet, Interest rate trading, funding and sales desks</li> </ul>
 
 # Director of Digital Stratgy
 - company: Murex Paris
