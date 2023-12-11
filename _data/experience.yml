@@ -5,7 +5,7 @@
   summary: <ul class="resume-item-list"> <li>Actively bridge the gap between business and IT by proficiently gathering and documenting business requirements</li><li>Document and understand the different financial products, including the pricing and risk calculation making up the package used to achieve transfer pricing between the different desks</li> <li>Communicate system limitations to stakeholders, providing clarity on the feasibility of requirements within Murex</li> <li>Write and automate the test cases for the different front office desks incl. Balance sheet, Interest rate trading and sales</li> </ul>
 
 # Director of Digital Stratgy
-- company: Murex
+- company: Murex Paris
   position: External Collateral operations consultant
   duration:  Oct, 2022 &mdash; Aug, 2023
   summary: <ul class="resume-item-list"><li>Led the Triparty end to end migration process on two upgrade projects for processing Initial Margin requirements, including configuration and building of the swift messages for Euroclear, Clearstream, STRATE and BONY Mellon</li><li>Configured and deployed the new agreement stamping solution for the collateral upgrade project, including the reconciliation and end-to-end testing</li><li>Migrated and configured the new collateral workflow for margin and expected margin call processing for both email and interfacing with Acadia Margin Manager using CICD to deliver the build on one of the largest collateral implementation</li><li>Built and documented the automated test using Mxtest and pushed changes to the remote repository on the CI/CD upgrade project as well as support for the Saas client</li></ul>
