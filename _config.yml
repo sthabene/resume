@@ -23,7 +23,7 @@ resume_contact_address:         "Johannesburg, South Africa"
 resume_header_contact_info:     "Johannesburg, South Africa • +27 78 141 1404 • sthabene@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Seasoned Murex Consultant specializing in back-office, collateral operations, and post-trade interfaces. Demonstrated success in implementing crucial workflows for top-tier clients, with notable contributions to significant upgrade projects. Proficient in key technologies such as Murex, SQL, XML, XSLT, MSL, and possessing functional expertise in product and risk knowledge. Skilled at navigating intricate financial landscapes, specializing in back-office operations, collateral management, trade life cycle, integration, and financial product pricing and risk</p>"
+resume_header_intro: "<p>Seasoned Murex Consultant specializing in back-office operations, collateral management, trade life cycle, integration, reporting and financial product pricing and risk. Demonstrated success in implementing crucial workflows for top-tier clients, with notable contributions to several upgrade and greenfield projects. Proficient in key Murex technologies such MxMLExchange, SQL, XSL & XSLT, MSL, datamart, simulation, and possessing functional expertise in product and risk knowledge.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

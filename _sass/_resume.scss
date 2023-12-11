@@ -183,6 +183,8 @@
 b, strong {
   font-weight: bold;
   font-size: 14px;
+  font-style: italic;
+  margin-left: 15px;
 }
 
 // footer styles
@@ -195,7 +197,7 @@ b, strong {
 
   .footer-line {
     margin: 0;
-    font-size: .875rem;
+    font-size: .7rem;
     color: #999;
 
     > a {
