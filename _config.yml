@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "Sibusiso Thabene"
-resume_title:                   "Murex Consultant"
+resume_title:                   "Capital Markets | Murex"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "sthabene@gmail.com"

@@ -6,11 +6,11 @@
   role: Creator and Primary Developer
   duration: Aug, 2022 &mdash; Present
   url: https://github.com/sthabene/QuantIO
-  description: QuantIO provides a GUI implementation of the QuantLib project. It allows non c++ developers to use the QuantLib project for their Quant needs. The project uses QuantLib as the backend and logic and uses ImGui front end, all in c++
+  description: Built a GUI for QuantLib, enabling non-C++ developers to leverage advanced quantitative tools.
 
 # Springfield Community Outreach Group
 - project: Elenjical Solutions internal technical training
   role: Primary developer and reviewer
   duration: 2020 &mdash; Present
   # url: "#"
-  description: For new graduates that join the company, they go through a technical training over the course of two weeks, the training includes pricing exercises (Swap and FRA pricing, Bond pricing, Option pricing using Binominal Trees, and BSM formula), end of day data monitoring for one of our main clients (I provide them with the data and they have to draw insights from that), calendar and pricing engine using SQLite as the storage solution (allows them to understand the different day conventions of different markets), XSL and XSLT (to get them familiar with MxML structure and how to retrieve information from it)
+  description: Designed and delivered technical training for new hires, covering financial product pricing, SQL, XSLT, and Murex workflows. 
