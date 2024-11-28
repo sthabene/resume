@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "Sibusiso Thabene"
-resume_title:                   "Capital Markets | Murex"
+resume_title:                   "Capital Markets Technology | Murex"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "sthabene@gmail.com"
@@ -23,7 +23,7 @@ resume_contact_address:         "Johannesburg, South Africa"
 resume_header_contact_info:     "Johannesburg, South Africa • +27 78 141 1404 • sthabene@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Seasoned Murex Consultant specializing in back-office operations, collateral management, trade life cycle, integration, reporting and financial product pricing and risk. Demonstrated success in implementing crucial workflows for top-tier clients, with notable contributions to several upgrade and greenfield projects. Proficient in key Murex technologies such MxMLExchange, SQL, XSL & XSLT, MSL, datamart, simulation, and possessing functional expertise in product and risk knowledge.</p>"
+resume_header_intro: "<p>Seasoned Murex & Capital Markets Technology Consultant specializing in back-office operations, collateral management, trade life cycle, system integration, financial reporting and financial product pricing and risk calculation. Demonstrated success in implementing crucial business workflows for top-tier clients, with notable contributions to several upgrade and greenfield projects. Proficient in key capital markets technologies such as SQL, C++, R, Python, Git, SWIFT messaging, as well as key Murex technologies such as MxMLExchange, OSP, XSL & XSLT, MSL, datamart, simulation, and functional knowledge of financial products and risk.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

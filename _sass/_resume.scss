@@ -141,13 +141,43 @@
   .resume-item-title {
     @include sans_bold;
     margin: 0 0 .5rem;
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     letter-spacing: -.05rem;
     line-height: 1;
   }
 
-  .resume-item-details {
+  .resume-item-title1 {
+    @include sans_bold;
+    margin: 0 0 .5rem;
+    font-size: 1.3rem;
+    letter-spacing: -.05rem;
+    line-height: 1;
+  }
+
+  .resume-item-title2 {
+    @include sans_bold1;
+    margin: 0 0 .5rem;
     font-size: 1rem;
+    letter-spacing: -.05rem;
+    line-height: 1;
+  }
+
+
+
+  .resume-item-container,
+  .resume-item-container1 {
+    display: flex;
+    justify-content: space-between; /* Ensures the items are on opposite sides */
+    align-items: center; /* Vertically aligns items if needed */
+  }
+
+  .resume-item-details,
+  .resume-item-details1,
+  .resume-item-details2,
+  .resume-item-duration,
+  .resume-item-duration1,
+  .resume-item-duration2 {
+    font-size: 0.9rem;
     margin: 0 0 .0rem;
     line-height: 0.8;
 
@@ -156,8 +186,43 @@
     }
   }
 
+  .resume-item-duration {
+    text-align: right; /* Ensures duration aligns to the right */
+    padding-right: 0px;
+  }
+
+  .resume-item-details1 {
+    font-size: 1.1rem!important;
+  }
+
+  .resume-item-details {
+    padding-left: 0px!important;
+  }
+
+  .resume-item-details2 {
+    padding-left: 15px!important;
+  }
+
+  .resume-item-duration1 {
+    font-size: 1.1rem!important;
+    text-align: right; /* Ensures duration aligns to the right */
+    padding-right: 0px;
+  }
+
+  .resume-item-duration2 {
+    text-align: right; /* Ensures duration aligns to the right */
+    padding-right: 0px;
+  }
+
   .resume-item-title,
+  .resume-item-title1,
+  .resume-item-title2,
   .resume-item-details,
+  .resume-item-details1,
+  .resume-item-details2,
+  .resume-item-duration,
+  .resume-item-duration1,
+  .resume-item-duration2,
   .resume-item-copy,
   .resume-item-list {
     padding: auto;
@@ -174,6 +239,7 @@
 
     
   }
+
   .resume-item-copy { 
     margin: .5rem 0 0; 
     font-size: 13px;
@@ -233,7 +299,9 @@ b, strong {
       line-height: .7em;
     }
 
-    .resume-item-details {
+    .resume-item-details,
+    .resume-item-details1,
+    .resume-item-details2 {
       font-size: 12px;
       margin: 0 0 .75rem;
       line-height: .7em;

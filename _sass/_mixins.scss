@@ -69,6 +69,11 @@
   font-weight: 700;
 }
 
+@mixin sans_bold1 {
+  @include sans;
+  font-weight: 600;
+}
+
 @mixin sans_extrabold {
   @include sans;
   font-weight: 800;

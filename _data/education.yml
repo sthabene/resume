@@ -3,11 +3,11 @@
   uni: Global Association of Risk Professionals
   year: Issued 2021
   award: 
-  summary: 
+  summary: <ul class="resume-item-list"> <li>Market Risk, Basel, Liquidity Risk, Operations Risk, Valuations</li></ul>
   
 - degree: Bachelor of Business Science in Analytics
   uni: University of Cape Town
   year: 2013 &mdash; 2017
-  awards:
-  summary: 
+  awards: 
+  summary: <ul class="resume-item-list"> <li>Statistics, Computer Science, Mathematics, Business</li></ul>
 
