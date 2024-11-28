@@ -149,7 +149,7 @@
   .resume-item-title1 {
     @include sans_bold;
     margin: 0 0 .5rem;
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     letter-spacing: -.05rem;
     line-height: 1;
   }
@@ -192,7 +192,7 @@
   }
 
   .resume-item-details1 {
-    font-size: 1.1rem!important;
+    font-size: 1rem!important;
   }
 
   .resume-item-details {
@@ -204,7 +204,7 @@
   }
 
   .resume-item-duration1 {
-    font-size: 1.1rem!important;
+    font-size: 1rem!important;
     text-align: right; /* Ensures duration aligns to the right */
     padding-right: 0px;
   }
@@ -242,7 +242,7 @@
 
   .resume-item-copy { 
     margin: .5rem 0 0; 
-    font-size: 13px;
+    font-size: 12px;
   }
 }
 
