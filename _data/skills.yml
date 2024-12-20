@@ -6,7 +6,7 @@
   description: Payment/deliverable creation, payment rules, netting, splitting, instruction generation, validation, settlement message generation, settlement events for security, cash and physical settlements
 
 - skill: Post-trade and Post-trade workflow
-  description: Interfaces, data dictionary (XSL, XSLTREE, SQL, XMLF and XMLBM), market data, event, trade, and static data integration, collateral exchange, margin call management, OSP, Trade MxML and Swift integration for Back Office processing, MSL, task rules, lookup tables, workflow tasks
+  description: Interfaces/Integration, data dictionary (XSL, XSLTREE, SQL, XMLF and XMLBM), market data, event, trade, and static data integration, collateral exchange, margin call management, OSP, Trade MxML and Swift integration for Back Office processing, MSL, task rules, lookup tables, workflow tasks
 
 - skill: Back-office
   description: Deliverable module (Pre-netting, post-netting, splitting, settlements messages), Static data (Settlement instruction insertion and modification via front and via exchange workflow, counterparty modifications), OSP (Setting OSP and OSP rights, extended fields, designing smart queues, netting widget and linking queues to tasks in the post-trade workflow, debugging), Creation, assignment and sending of both swift and doc confirmations
